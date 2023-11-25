@@ -2,8 +2,9 @@
     "usuarios": [
         {
             "id":"1",
-            "usuario": "Admin",
-            "Senha": "12345"
+            "nome": "Admin",
+            "email":"admin@gmail.com",
+            "senha": "12345"
         }
     ]
 }
